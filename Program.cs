@@ -111,6 +111,6 @@ class Program //membuat class Program sebagai class utama atau main class. kenap
         Console.WriteLine("\n\nInformasi tentang Karyawan Kantor \n"); //menampilkan informasi tentang karyawan kantor
         Console.WriteLine("Nama Karyawan : " + karyawan.nama); //menampilkan nama karyawan yang diinputkan oleh user
         Console.WriteLine("ID Karyawan : " + karyawan.id); //menampilkan id karyawan yang diinputkan oleh user
-        Console.WriteLine("Total Keseluruhan Gaji Pokok : " + Total_gaji); //menampilkan total keseluruhan gaji pokok yang sudah di hitung sebelumnya
+        Console.WriteLine("Total Keseluruhan Gaji Pokok : " + Total_gaji); //menampilkan total keseluruhan gaji pokok yang sudah di hitung sebelumnya 
     }
 }
